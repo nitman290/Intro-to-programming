@@ -1,0 +1,67 @@
+*{
+	/*outline: 1px solid red;*/
+}
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; 
+}
+
+.header {
+	text-align: center;
+	font-size: 50px;
+	background-color: red;
+	/*margin: 0px; */ /*Having a margin set to 0 helps the web page header look better. it reduces the space between the header and top of the page. */
+	outline: 5px solid black;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	width: 30%;
+	height: auto;
+	margin: auto;
+	display: block;
+	outline: 5px solid black;
+	
+}
+
+.csspicture {
+	width: 25%;
+	height: auto;
+	outline: 0px;
+}
+
+.htmlicondiv {
+	margin: 30px;
+}
+
+.body {
+	background-color: green;
+	margin: 10px;
+}
+
+.Lesson {
+	background-color: pink;
+	outline: 5px solid black;
+	padding: 10px;
+	margin-bottom: 50px;
+}
+
+/*.Lesson2{
+	background-color: magenta;
+	outline: 5px solid black;
+	padding: 10px;
+}*/
+
+.csspic {
+	margin: 20px;
+}
+
+.bib {
+	text-align: center;
+	margin: 10px;
+}
